@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fasiullah-mohammed
 - 👀 I’m interested in **Cloud Security and Automation**
-- 🌱 I’m currently learning **Python**
-- 💞️ Interested in collaborating on **Security and Automation projects**
+- 🌱 currently learning **Python**
+- 💞️ Also willing to collaborate on **Security and Automation projects**
 - 📫 How to reach me https://github.com/fasiullah-mohammed
 
 <!---
