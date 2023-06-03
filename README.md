@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fasiullah-mohammed
 - 👀 I’m interested in **Cloud Security and Automation**
-- 🌱 currently learning **Python**
+- 🌱 currently learning **Python**, **Docker**, **Terraform**, **Nginx** and **AWS**
 - 💞️ Also willing to collaborate on **Security and Automation projects**
 - 📫 How to reach me https://github.com/fasiullah-mohammed
 
